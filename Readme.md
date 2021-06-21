@@ -6,20 +6,45 @@ I usually develop web and mobile applications with these languges:
 
 <!-- ! languages I'm good in  -->
 <br>
+<br>
 
->My resent website
+>My recent website
 
 <a href="https://koundinyapidaparthy.github.io/weatherapp/">WeatherApp</a>
 
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koundinyapidaparthy&layout=compact&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koundinyapidaparthy&hide=contribs,prs&show_icons=true&theme=tokyonight)
+
+<br>
+<br>
+
 >Languages i learned
 
-<img src="./images/HTML.png" alt="HTML" width="40px" height="40px"><img src="./images/CSS.png" alt="HTML" width="40px" height="40px"> 
-<img src="./images/SASS.png" alt="HTML" width="40px" height="40px"> 
-<img src="./images/JavaScript.png" alt="HTML" width="40px" height="40px"> 
-<img src="./images/JQUERY.png" alt="HTML" width="100px" height="40px"> 
-<img src="./images/REACT.png" alt="HTML" width="40px" height="40px"> 
-<img src="./images/REDUX.png" alt="HTML" width="40px" height="40px"> 
-<img src="./images/NODE.png" alt="HTML" width="45px" height="40px"> 
-<img src="./images/EXPRESS.png" alt="HTML" width="100px" height="40px"> 
-<img src="./images/FASTIFY.png" alt="HTML" width="100px" height="40px"> 
-<img src="./images/MONGODB.png" alt="HTML" width="100px" height="40px"> 
+<br>
+<a>
+<img align="center" src="./images/HTML.png" alt="HTML" width="40px" height="40px">
+</a><a>
+<img align="center" src="./images/CSS.png" alt="HTML" width="40px" height="40px"> 
+</a><a>
+<img align="center" src="./images/SASS.png" alt="HTML" width="40px" height="40px"> 
+</a><a>
+<img align="center" src="./images/JavaScript.png" alt="HTML" width="40px" height="40px"> 
+</a><a>
+<img align="center" src="./images/JQUERY.png" alt="HTML" width="100px" height="40px"> 
+</a><a>
+<img align="center" src="./images/REACT.png" alt="HTML" width="40px" height="40px"> 
+</a><a>
+<img align="center" src="./images/REDUX.png" alt="HTML" width="40px" height="40px"> 
+</a><a>
+<img align="center" src="./images/NODE.png" alt="HTML" width="45px" height="40px"> 
+</a><a>
+<img align="center" src="./images/EXPRESS.png" alt="HTML" width="100px" height="40px"> 
+</a><a>
+<img align="center" src="./images/FASTIFY.png" alt="HTML" width="100px" height="40px"> 
+</a><a>
+<img align="center" src="./images/MONGODB.png" alt="HTML" width="100px" height="40px"> 
+</a>
