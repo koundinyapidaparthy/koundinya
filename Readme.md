@@ -15,9 +15,9 @@ I usually develop web and mobile applications with these languges:
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koundinyapidaparthy&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koundinyapidaparthy&layout=compact&theme=default)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koundinyapidaparthy&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=koundinyapidaparthy&hide=contribs,prs&show_icons=true&theme=default)
 
 <br>
 <br>
