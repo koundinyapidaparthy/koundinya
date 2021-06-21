@@ -23,26 +23,7 @@ I usually develop web and mobile applications with these languges:
 <br>
 
 >Languages i learned
-
 <br>
-<a align="center"><img align="center" src="./images/HTML.png" alt="HTML" width="40px" height="40px">
-</a><a><img align="center" src="./images/CSS.png" alt="HTML" width="40px" height="40px"> 
-</a><a>
-<img align="center" src="./images/SASS.png" alt="HTML" width="40px" height="40px"> 
-</a><a>
-<img align="center" src="./images/JavaScript.png" alt="HTML" width="40px" height="40px"> 
-</a><a>
-<img align="center" src="./images/JQUERY.png" alt="HTML" width="100px" height="40px"> 
-</a><a>
-<img align="center" src="./images/REACT.png" alt="HTML" width="40px" height="40px"> 
-</a><a>
-<img align="center" src="./images/REDUX.png" alt="HTML" width="40px" height="40px"> 
-</a><a>
-<img align="center" src="./images/NODE.png" alt="HTML" width="45px" height="40px"> 
-</a><a>
-<img align="center" src="./images/EXPRESS.png" alt="HTML" width="100px" height="40px"> 
-</a><a>
-<img align="center" src="./images/FASTIFY.png" alt="HTML" width="100px" height="40px"> 
-</a><a>
-<img align="center" src="./images/MONGODB.png" alt="HTML" width="100px" height="40px"> 
-</a>
+
+<img align="center" src="./images/HTML.png" alt="HTML" width="40px" height="40px"><img align="center" src="./images/CSS.png" alt="HTML" width="40px" height="40px"> 
+<img align="center" src="./images/SASS.png" alt="HTML" width="40px" height="40px"> <img align="center" src="./images/JavaScript.png" alt="HTML" width="40px" height="40px"> <img align="center" src="./images/JQUERY.png" alt="HTML" width="100px" height="40px"> <img align="center" src="./images/REACT.png" alt="HTML" width="40px" height="40px"> <img align="center" src="./images/REDUX.png" alt="HTML" width="40px" height="40px"> <img align="center" src="./images/NODE.png" alt="HTML" width="45px" height="40px"> <img align="center" src="./images/EXPRESS.png" alt="HTML" width="100px" height="40px"> <img align="center" src="./images/FASTIFY.png" alt="HTML" width="100px" height="40px"> <img align="center" src="./images/MONGODB.png" alt="HTML" width="100px" height="40px"> 
