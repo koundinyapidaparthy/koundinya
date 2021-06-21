@@ -25,10 +25,8 @@ I usually develop web and mobile applications with these languges:
 >Languages i learned
 
 <br>
-<a>
-<img align="center" src="./images/HTML.png" alt="HTML" width="40px" height="40px">
-</a><a>
-<img align="center" src="./images/CSS.png" alt="HTML" width="40px" height="40px"> 
+<a align="center"><img align="center" src="./images/HTML.png" alt="HTML" width="40px" height="40px">
+</a><a><img align="center" src="./images/CSS.png" alt="HTML" width="40px" height="40px"> 
 </a><a>
 <img align="center" src="./images/SASS.png" alt="HTML" width="40px" height="40px"> 
 </a><a>
