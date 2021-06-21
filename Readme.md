@@ -9,7 +9,7 @@ I usually develop web and mobile applications with these languges:
 
 >My resent website
 
-![click me]("https://koundinyapidaparthy.github.io/weatherapp/","WeatherApp")
+[WeatherApp]("https://koundinyapidaparthy.github.io/weatherapp/","fetchingApp")
 
 >Languages i learned
 
