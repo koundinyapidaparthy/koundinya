@@ -7,6 +7,12 @@ I usually develop web and mobile applications with these languges:
 <!-- ! languages I'm good in  -->
 <br>
 
+>My resent website
+
+![click me]("https://koundinyapidaparthy.github.io/weatherapp/","WeatherApp")
+
+>Languages i learned
+
 <img src="./images/HTML.png" alt="HTML" width="40" height="40"><img src="./images/CSS.png" alt="HTML" width="40" height="40"> 
 <img src="./images/SASS.png" alt="HTML" width="40" height="40"> 
 <img src="./images/JavaScript.png" alt="HTML" width="40" height="40"> 
