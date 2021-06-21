@@ -1,6 +1,6 @@
 ### Hello <img src="images\HI.gif" alt="Hi" width="20" height="20">
 <br>
-This is koundinya and I am developer <img src="images\Developer.gif" alt="Developer"  width="40" height="40">
+This is koundinya and I am developer<img src="images\Developer.gif" alt="Developer"  width="40" height="40">
 
 I usually develop web and mobile applications with these languges:
 
